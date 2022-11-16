@@ -1,0 +1,29 @@
+.ag-theme-alpine {
+    --ag-header-height: 30px;
+    --ag-header-foreground-color: white;
+    --ag-header-background-color: #302E61;
+    --ag-header-cell-hover-background-color: rgb(80, 40, 140);
+    --ag-header-cell-moving-background-color: rgb(80, 40, 140);
+}
+.ag-theme-alpine .ag-header {
+    font-family: cursive;
+}
+.ag-theme-alpine .ag-header-group-cell {
+    font-weight: normal;
+    font-size: 22px;
+}
+.ag-theme-alpine .ag-header-cell {
+    font-size: 18px;
+}
+/* Menu */
+.ag-theme-alpine .ag-menu {
+    background-color: #FEA50C; /* light purple */
+}
+
+.ag-theme-alpine .ag-menu-header {
+    background-color: rgb(100, 32, 119); /* dark purple */
+}
+
+.ag-theme-alpine .ag-menu-header .ag-icon {
+    color: white;
+}
